@@ -1,0 +1,7 @@
+flask
+langchain
+langchain-community
+langchain-ollama
+chromadb
+pypdf
+python-dotenv
